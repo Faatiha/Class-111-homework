@@ -1,0 +1,35 @@
+body
+{
+  color: white;
+ background-image: linear-gradient(to bottom right, rgb(220, 229, 251), rgb(103, 103, 246));
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emoji_name 
+{
+  color: black;
+}
+.emoji_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+.heading
+{
+  font-size:18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+
